@@ -83,7 +83,7 @@ author:
   bio              : "I hope a day with no suffering for all of creatures in the world"
   location         : "Tehran"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "jamali.amir@gmail.com"
   uri              :
   bitbucket        :
