@@ -12,9 +12,4 @@ location: "City, Country"
 
 hghjgjhgjgjghgkhgkkg
 
-Heading 1
-======
-
-Heading 2
-======
 
