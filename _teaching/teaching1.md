@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching1
 venue: "Amirkabir University of Technology 1, Computer Engineering and Information Technology"
-date: 2013-2014
+date: 2013-01-01
 location: "City, Country"
 ---
 
