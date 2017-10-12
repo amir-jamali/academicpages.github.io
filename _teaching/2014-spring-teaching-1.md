@@ -8,13 +8,13 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[comment]: <> (This is a description of a teaching experience. You can use markdown like any other post.)
 
-Heading 1
-======
+[comment]: <> (Heading 1)
+[comment]: <> (======)
 
-Heading 2
-======
+[comment]: <> (Heading 2)
+[comment]: <> (======)
 
-Heading 3
-======
+[comment]: <> (Heading 3)
+[comment]: <> (======)
